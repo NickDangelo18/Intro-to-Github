@@ -1,0 +1,99 @@
+body{
+    background-color: #4E74A6;
+    font-family: 'Inconsolata', monospace;
+}
+
+#container {
+    background-color: #BFACA4;
+    width: 900px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+header {
+    padding-top: 20px 0;
+    background-color:#730303;
+    border-radius: 20px 20px 0 0; 
+}
+
+header img {
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-size: 2.5em;
+    text-align: center;
+    color: #4E74A6;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+nav {
+    background-color:#C4F2EE;
+    padding-top: 10px;
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    background-color: #BFACA4;
+    height: 40px;
+    width: 175px;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 40px;
+    color: #4E74A6;
+    text-decoration: none;
+    border-radius: 10px 10px 0 0;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    background-color:#4E74A6;
+    color: #BFACA4;
+}
+
+main {
+    background-color:#BFACA4;
+    padding: 20px;
+    margin: 0 20px 20px 20px;
+}
+
+main h2{
+    text-align: center;
+    color:#4E74A6;
+    font-size: 2em;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+main img{
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+    background-color:#4E74A6;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+footer {
+    background-color:#BFACA4;
+    padding: 60px 0;
+    color: #4E74A6;
+    font-size: 1.5em;
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+}
+
+active{
+    background-color:#4E74A6;
+    color: #BFACA4;  
+}
+
+.pro_head{
+    text-align: center;
+    color: #C4F2EE;
+    font-size: 1.5em;
+    font-family: 'Nanum Gothic', sans-serif
+    
+}
