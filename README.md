@@ -5,4 +5,5 @@
 <ul>
     <li><a href="lab2/index.html" target="_blank"> Lab 2</a>
     <li><a href="lab3/index.html" target="_blank"> Lab 3</a>
+    <li><a href="lab4/index.html" target="_blank"> Lab 4</a>
 </ul>
