@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 10;
+    padding: 10;
     font-family: sans-serif;
 }
 .container{
@@ -87,6 +87,12 @@ audio, video{
         margin: 20px;
         width: 50%;
 }
+audio, video{
+    position: relative;
+    flex-basis: 60%;
+    display: flex;
+    align-items: center;  
+}
 .col-2 .tool{
     width: 25%;
 }
@@ -97,3 +103,4 @@ table, tr, td {
     background-color: #BDD959;
 }
 /*Mobile Styles*/
+
