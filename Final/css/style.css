@@ -1,6 +1,6 @@
 *{
-    margin: 10px 0 0;
-    padding: 10px 0 0;
+    margin: 10px 0;
+    padding: 10px 0;
     font-family: sans-serif;
 }
 .container{
@@ -126,15 +126,6 @@ table, tr, td {
     #upper_flex {
         display: flex;
     }
-
-    section, aside {
-        width: 50%;
-    }
-
-    aside img {
-        width: 50%;
-    }
-
     .col-2 img {
         width: 75%;
         border-radius: 10px;
