@@ -105,3 +105,43 @@ table, tr, td {
 }
 /*Mobile Styles*/
 
+@media (min-width: 700) {
+
+    nav {
+        text-align: center;
+        padding: 5px;
+    }
+
+    nav li {
+        display: inline-block;
+    }
+
+    nav li a {
+        height: 50px;
+        line-height: 50px;
+        width: 200px;
+        
+    }
+
+    #upper_flex {
+        display: flex;
+    }
+
+    section, aside {
+        width: 50%;
+    }
+
+    aside img {
+        width: 50%;
+    }
+
+    .col-2 img {
+        width: 75%;
+        border-radius: 10px;
+        border: 4px solid #000
+    }
+
+    .single_col {
+        width: 80%;
+    }
+}
